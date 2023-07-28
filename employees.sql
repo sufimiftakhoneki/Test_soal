@@ -27,7 +27,7 @@ CREATE TABLE `employees` (
   `jenis_kelamin` varchar(255) DEFAULT NULL,
   `alamat` text DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=102 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8mb4;
 
 /*Data for the table `employees` */
 
